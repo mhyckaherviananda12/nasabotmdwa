@@ -11,7 +11,6 @@
 	# Mhankbarbar
 	# Nurutomo
 	# Rashid
-	# ZeeoneOfc
 	# Penyedia Module
 	# And All Support
 **/
@@ -551,7 +550,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 				var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -572,7 +571,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 				var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -639,7 +638,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     + `ORG:Owner ${botname};\n` // the organization of the contact
                     + `TEL;type=CELL;type=VOICE;waid=${ownernomer}:${ownernomerr}\n`
                     + 'END:VCARD'
-                alpha.sendMessage(m.chat, { contacts: { displayName: 'Zeeone Ofc.', contacts: [{ vcard }] } }, { quoted: m })
+                alpha.sendMessage(m.chat, { contacts: { displayName: 'ArulGanz.', contacts: [{ vcard }] } }, { quoted: m })
             }
             break
             case 'rules':{
@@ -647,7 +646,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -660,13 +659,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube Creator",
+              "displayText": "Instagram",
               "url": `${youtube}`
             }
           },
           {
             "urlButton": {
-              "displayText": "Rest Api's",              
+              "displayText": "Telegram",              
               "url": `${myweb}`
 
             }
@@ -793,7 +792,7 @@ break
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -818,7 +817,7 @@ break
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -842,7 +841,7 @@ break
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -871,7 +870,7 @@ break
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Telegram",
 						"url": `${myweb}`
 						}
 					}
@@ -1128,13 +1127,13 @@ break
 						var but = [
 						{
 							"urlButton": {
-								"displayText": "YouTube Creator",
+								"displayText": "Instagram",
 								"url": `${youtube}`
 								}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1163,13 +1162,13 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1200,13 +1199,13 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1237,13 +1236,13 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1274,13 +1273,13 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1311,13 +1310,13 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1348,13 +1347,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1385,13 +1384,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1421,13 +1420,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1457,13 +1456,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1494,13 +1493,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1531,13 +1530,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1567,13 +1566,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1603,13 +1602,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1639,13 +1638,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1675,13 +1674,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1711,13 +1710,13 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1748,13 +1747,13 @@ case 'textprocmd': case 'textpromenu':
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1784,13 +1783,13 @@ case 'textprocmd': case 'textpromenu':
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
@@ -1822,13 +1821,13 @@ case 'textprocmd': case 'textpromenu':
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Instagram",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Telegram",
 										"url": `${myweb}`
 										}
 										},
