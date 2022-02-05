@@ -53,6 +53,7 @@ qris = fs.readFileSync(donasi)
 const  { ind } = require(`./language`)
 lang = ind //language
 enter = '\n'
+myweb2 = 'https://chat.whatsapp.com/C3jhijq3xS0AVuJykrhxMn'
 typemenu = 'templateLocation'
 moment.tz.setDefault("Asia/Jakarta").locale("id");
 
@@ -124,7 +125,7 @@ module.exports = alpha = async (alpha, m, chatUpdate, store) => {
 		
 		
 		const reply = async (teks) => {
-			return await alpha.sendFakeLink(m.chat,teks,salam, pushname,ownername, thumbnail, myweb, m)
+			return await alpha.sendFakeLink(m.chat,teks,salam, pushname,ownername, thumbnail, myweb2, m)
 		}
 		// DATABASE
 try {
