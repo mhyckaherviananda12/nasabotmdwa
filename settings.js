@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "WibuBot-MD"
-global.ownername= "ArulGanz"
-global.myweb ="https://t.me/its_Me_Gal"
-global.youtube = "https://instagram.com/_daaa_1"
-global.github = "https://github.com/BotWhatsapp12"
-global.ownernomer = "6281229859085"
-global.ownernomerr = "+6281229859085"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
+global.botname = "Nasa-MD"
+global.ownername= "Mhycka"
+global.myweb ="https://t.me/Mhycka"
+global.youtube = "https://instagram.com/mhyckaherviananda"
+global.github = "https://github.com/mhyckaherviananda"
+global.ownernomer = "6285340409831"
+global.ownernomerr = "+6285340409831"
+global.thumbnail = "./image/ed121f794c8b45ebbcf7d11b4c3de2d4.jpg"
+global.donasi = "./image/536d3955e4d14334849a5ecc19901ac7.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6281229859085","6281229859085","6281229859085"] //ganti agar fitur owner bisa di gunakan
-global.packname = '©Bot Whatsapp by ArulGanz' //sticker wm
-global.author = 'Follow Instagram @_daaa_1' //sticker wm
+global.owner = ["6285340409831","6285340409831","6285340409831"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©Bot Whatsapp by Mhycka' //sticker wm
+global.author = 'Follow Instagram @mhyckaherviananda' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
